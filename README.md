@@ -1,2 +1,2 @@
-to prictice git fork
+to prictice github fork
                 
